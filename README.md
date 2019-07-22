@@ -6,7 +6,7 @@ I'm throwing it here for reference and anyone that wants to check it out.
 
 ## How to use it
 1. Download bonspiel.py 
-2. Run it via python3 ```python3 ~/Downloads/bonspiel.py```  
+2. Run it via python3 ```python3 ~/Downloads/bonspiel-master/bonspiel.py```  
 Check -h for usage.  
-Example command: ```python3 ~/Downloads/bonspiel.py computers```  
-Example command with sample: ```python3 ~/Downloads/bonspiel.py computers/id -s```
+Example command: ```python3 ~/Downloads/bonspiel-master/bonspiel.py computers```  
+Example command with sample: ```python3 ~/Downloads/bonspiel-master/bonspiel.py computers/id -s```
