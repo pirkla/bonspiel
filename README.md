@@ -11,7 +11,7 @@ I'm leaving the original module since I'm planning on developing that to plug in
 
 ## How to use
 1. Download and unzip the repository
-2. Run it via python3 ```python3 ~/Downloads/bonspiel-master/bonspiel.py```  
+2. Run it. python3 is for bonspiel.py, python for bonspiel2.py ```python3 ~/Downloads/bonspiel-master/bonspiel.py```  
 Check -h for usage.  
 Example command: ```python3 ~/Downloads/bonspiel-master/bonspiel.py computers```  
 Example command with sample: ```python3 ~/Downloads/bonspiel-master/bonspiel.py computers/id -s```
